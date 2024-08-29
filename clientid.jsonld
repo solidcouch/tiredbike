@@ -1,0 +1,18 @@
+{
+  "@context": "https://www.w3.org/ns/solid/oidc-context.jsonld",
+  "client_id": "https://tired.bike/clientid.jsonld",
+  "client_name": "SolidCouch",
+  "redirect_uris": [
+    "https://tired.bike/"
+  ],
+  "client_uri": "https://tired.bike/",
+  "logo_uri": "https://tired.bike/logo.svg",
+  "scope": "openid profile offline_access webid",
+  "grant_types": [
+    "refresh_token",
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ]
+}
