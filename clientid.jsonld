@@ -6,7 +6,7 @@
     "https://tired.bike/"
   ],
   "client_uri": "https://tired.bike/",
-  "logo_uri": "https://community.tired.bike/logo.svg",
+  "logo_uri": "https://community.tired.bike/logo-new.svg",
   "scope": "openid profile offline_access webid",
   "grant_types": [
     "refresh_token",
